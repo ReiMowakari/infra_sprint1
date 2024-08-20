@@ -1,0 +1,5 @@
+IP: 89.169.163.86;
+name_taski: https://reitaski.zapto.org/;
+name_kittygram: https://reikittygram.zapto.org/;
+login: kitty;
+password: 1234;
